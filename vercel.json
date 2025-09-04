@@ -1,0 +1,9 @@
+{
+  "rewrites": [
+    { "source": "/_nuxt/(.*)", "destination": "/_nuxt/$1" },
+    { "source": "/cdn-cgi/(.*)", "destination": "/cdn-cgi/$1" }
+  ],
+  "redirects": [
+    { "source": "/", "destination": "/index.html", "permanent": false }
+  ]
+}

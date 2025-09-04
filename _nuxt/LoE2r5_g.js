@@ -1,0 +1,1 @@
+import{u as r,t as a,h as s}from"./J0AgRosw.js";import{h as o,i}from"./g6DjQIE-.js";function u(n){var e;const t=n||a();return((e=t==null?void 0:t.ssrContext)==null?void 0:e.head)||(t==null?void 0:t.runWithContext(()=>{if(o())return i(s)}))}function d(n,t={}){const e=u(t.nuxt);if(e)return r(n,{head:e,...t})}export{d as u};
